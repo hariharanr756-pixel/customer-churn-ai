@@ -74,7 +74,7 @@ Deployed using Streamlit Community Cloud
 
 ## 👨‍💻 Author
 
-Hariharan R
+HARI HARAN R
 
 ---
 
